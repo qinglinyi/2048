@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">test</string>
+    <string name="start">start</string>
+    <string name="game_over">GAME OVER!!</string>
+</resources>
